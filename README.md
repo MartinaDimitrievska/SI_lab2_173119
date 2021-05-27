@@ -10,6 +10,6 @@ https://www.dropbox.com/s/cofsrc0htru3cf3/cfg.jpg?dl=0
 
 Цикломатската комплексност на овој код е 8, истата ја добив преку формулата E-N+2, каде што E е бројот на ребра, а N e бројот на темиња. Во случајoв P=23-17+2, па цикломатската комплексност изнесува 8.
 
-### Тест случаи според критериумот  Every statement 
+### Тест случаи според критериумот Multiple condition 
 
 https://www.dropbox.com/s/x2gr2vf5fl4dxnh/multiple.jpg?dl=0
